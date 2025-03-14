@@ -1,4 +1,3 @@
-# Stock-Prediction
 # Stock Prediction Project
 
 ## Overview
